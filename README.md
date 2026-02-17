@@ -1,4 +1,5 @@
 Driver Drowsiness Detection System using CNN
+
 Overview
 This project implements a real-time Driver Drowsiness Detection System that monitors a driver’s eye state through a webcam feed. The system detects facial features using OpenCV and classifies eye status (Open/Closed) using a Convolutional Neural Network (CNN). If the eyes remain closed beyond a defined threshold, an audible alarm triggered to alert the driver.
 The objective is to reduce accident risks by identifying early signs of fatigue using computer vision and deep learning.
